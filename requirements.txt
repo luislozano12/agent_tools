@@ -1,0 +1,8 @@
+anthropic>=1.12
+httpx
+beautifulsoup4
+pypdf
+python-dotenv
+# Solo para Azure OpenAI:
+openai
+ddgs
